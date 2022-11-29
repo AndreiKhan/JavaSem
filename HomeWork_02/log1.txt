@@ -1,0 +1,16 @@
+нояб. 29, 2022 8:45:10 PM HomeWork_02.HomeWork main
+WARNING: Тестовое логирование 1
+нояб. 29, 2022 8:45:10 PM HomeWork_02.HomeWork main
+INFO: Тестовое логирование 2
+нояб. 29, 2022 8:45:10 PM HomeWork_02.HomeWork main
+WARNING: Тестовое логирование 3
+нояб. 29, 2022 8:45:10 PM HomeWork_02.HomeWork main
+INFO: Тестовое логирование 4
+нояб. 29, 2022 8:45:10 PM HomeWork_02.HomeWork main
+WARNING: Тестовое логирование 5
+нояб. 29, 2022 8:45:10 PM HomeWork_02.HomeWork main
+INFO: Тестовое логирование 6
+нояб. 29, 2022 8:45:10 PM HomeWork_02.HomeWork main
+WARNING: Тестовое логирование 7
+нояб. 29, 2022 8:45:10 PM HomeWork_02.HomeWork main
+INFO: Тестовое логирование 8
