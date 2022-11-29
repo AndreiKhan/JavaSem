@@ -107,5 +107,6 @@ class Task_02 {
         }
         // без этого файл не сохраняется
         writer.flush();
+        writer.close();
     }
 }
