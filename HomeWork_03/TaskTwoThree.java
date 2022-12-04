@@ -36,6 +36,7 @@ public class TaskTwoThree {
                 next = iterator.next();
                 count += next;
             }
+            count /= numbers.size();
             System.out.println("Среднее арифметическое из списка " + count);
         } else {
 
