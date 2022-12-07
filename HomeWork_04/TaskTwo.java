@@ -10,7 +10,7 @@ public class TaskTwo {
         // Метод добавления в конец очереди
         list.addLast(number);
 
-        System.out.println("Добавлен элемент в конец очереди " + number);
+        System.out.println("Добавлен элемент " + number + " в конец очереди");
         System.out.println(list);
 
         return list;
